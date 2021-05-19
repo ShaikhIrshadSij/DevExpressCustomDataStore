@@ -1,0 +1,14 @@
+D:\.NET Core\DevExpressCustomDataStore\DevExpressCustomDataStore\bin\Debug\netcoreapp2.2\DevExpressCustomDataStore.deps.json
+D:\.NET Core\DevExpressCustomDataStore\DevExpressCustomDataStore\bin\Debug\netcoreapp2.2\DevExpressCustomDataStore.runtimeconfig.json
+D:\.NET Core\DevExpressCustomDataStore\DevExpressCustomDataStore\bin\Debug\netcoreapp2.2\DevExpressCustomDataStore.runtimeconfig.dev.json
+D:\.NET Core\DevExpressCustomDataStore\DevExpressCustomDataStore\bin\Debug\netcoreapp2.2\DevExpressCustomDataStore.dll
+D:\.NET Core\DevExpressCustomDataStore\DevExpressCustomDataStore\obj\Debug\netcoreapp2.2\DevExpressCustomDataStore.csprojAssemblyReference.cache
+D:\.NET Core\DevExpressCustomDataStore\DevExpressCustomDataStore\obj\Debug\netcoreapp2.2\DevExpressCustomDataStore.csproj.CoreCompileInputs.cache
+D:\.NET Core\DevExpressCustomDataStore\DevExpressCustomDataStore\obj\Debug\netcoreapp2.2\DevExpressCustomDataStore.RazorAssemblyInfo.cache
+D:\.NET Core\DevExpressCustomDataStore\DevExpressCustomDataStore\obj\Debug\netcoreapp2.2\DevExpressCustomDataStore.RazorAssemblyInfo.cs
+D:\.NET Core\DevExpressCustomDataStore\DevExpressCustomDataStore\obj\Debug\netcoreapp2.2\DevExpressCustomDataStore.AssemblyInfoInputs.cache
+D:\.NET Core\DevExpressCustomDataStore\DevExpressCustomDataStore\obj\Debug\netcoreapp2.2\DevExpressCustomDataStore.AssemblyInfo.cs
+D:\.NET Core\DevExpressCustomDataStore\DevExpressCustomDataStore\obj\Debug\netcoreapp2.2\DevExpressCustomDataStore.RazorTargetAssemblyInfo.cache
+D:\.NET Core\DevExpressCustomDataStore\DevExpressCustomDataStore\bin\Debug\netcoreapp2.2\DevExpressCustomDataStore.pdb
+D:\.NET Core\DevExpressCustomDataStore\DevExpressCustomDataStore\obj\Debug\netcoreapp2.2\DevExpressCustomDataStore.dll
+D:\.NET Core\DevExpressCustomDataStore\DevExpressCustomDataStore\obj\Debug\netcoreapp2.2\DevExpressCustomDataStore.pdb
